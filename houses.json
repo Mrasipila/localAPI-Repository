@@ -1,0 +1,27 @@
+[
+{
+    "images":[
+    {"https://github.com/Mrasipila/localAPI-Repository/blob/master/house%20images/pexels-photo-106399.jpeg"},
+    {"https://github.com/Mrasipila/localAPI-Repository/blob/master/house%20images/pexels-photo-2102587.jpeg"}
+    ],
+    "price": 360000,
+    "address": "18 rue de l'eau",
+    "nb_room": 3,
+    "surface": 32,
+    "description": "vue côté ouest",
+    "lat": 43.33,
+    "lon": 50.62
+},
+{
+    "images":[
+    {"https://github.com/Mrasipila/localAPI-Repository/blob/master/house%20images/veranda-jardin-paris-trocadero-quartier.jpeg"}
+    ],
+    "price": 360000,
+    "address": "18 rue de l'eau",
+    "nb_room": 3,
+    "surface": 32,
+    "description": "vue côté ouest",
+    "lat": 43.33,
+    "lon": 50.62
+}
+]
