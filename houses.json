@@ -9,8 +9,8 @@
     "nb_room": 3,
     "surface": 32,
     "description": "vue côté ouest",
-    "lat": 43.33,
-    "lon": 50.62
+    "lat": 48.848107,
+    "lon": 2.327944
 },
 {
     "images":[
@@ -21,7 +21,7 @@
     "nb_room": 3,
     "surface": 32,
     "description": "vue côté ouest",
-    "lat": 43.33,
-    "lon": 50.62
+    "lat": 48.884975,
+    "lon": 2.297134
 }
 ]
