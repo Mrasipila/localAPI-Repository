@@ -4,11 +4,11 @@
     {"img0":"https://github.com/Mrasipila/localAPI-Repository/blob/master/house%20images/pexels-photo-106399.jpeg"},
     {"img1":"https://github.com/Mrasipila/localAPI-Repository/blob/master/house%20images/pexels-photo-2102587.jpeg"}
     ],
-    "price": 360000,
-    "address": "18 rue de l'eau",
-    "nb_room": 3,
-    "surface": 32,
-    "description": "vue côté ouest",
+    "price": 361000,
+    "address": "20 rue de l'eau",
+    "nb_room": 7,
+    "surface": 120,
+    "description": "vue côté est",
     "lat": 48.848107,
     "lon": 2.327944
 },
